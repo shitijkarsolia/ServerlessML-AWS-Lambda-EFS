@@ -1,0 +1,1 @@
+curl https://1a2b3c4d5e.execute-api.us-east-1.amazonaws.com/default/MLInference?url=s3://lambdatestbucket/data.csv
