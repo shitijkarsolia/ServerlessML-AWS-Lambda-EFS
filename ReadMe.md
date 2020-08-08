@@ -1,4 +1,6 @@
 # Serverless Machine Learning Inference with AWS Lambda + Amazon EFS
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shitijkarsolia)
+
 This repository contains supporting code for the medium article:
 https://medium.com/@shitijkarsolia/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03.
 
